@@ -10,7 +10,7 @@ The core of the project is a comparative study based on the ResNet architecture,
 *   Model compression techniques for deployment (Post-Training Quantization and Iterative Pruning).
 *   Model interpretation and visualisation (t-SNE, filter analysis, confusion matrices).
 
-The notebook can be easily opened and run in Google Colab, via the link at the beginning of the notebook itself, reported here for convenience: https://colab.research.google.com/github/gabrielebilliciani/ResNet-Oxford-Pet/blob/main/CV_project.ipynb.
+The notebook can be easily opened and run in Google Colab, via the link at the beginning of the notebook itself, reported here for convenience: https://colab.research.google.com/github/gabrielebilliciani/ResNet-Oxford-Pet/blob/main/CV_project.ipynb. The Colab notebook is already set to use a GPU runtime for faster training.
 
 ## Summary of Results
 
